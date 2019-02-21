@@ -1,7 +1,7 @@
 # Extract_data_in_csv_format
 ## Key feature
 <ol>
-<li>In this code we extract a data from database <strong>phpmyadmin</strong> in two format using <strong> python language.</strong> </li> 
+<li>In this code, We extract a data from database <strong>phpmyadmin</strong> in two format using <strong> python language.</strong> </li> 
   
    <strong>1) csv format</strong>   
    
