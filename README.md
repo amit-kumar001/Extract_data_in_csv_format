@@ -33,3 +33,10 @@
 <li>xlsxwriter</li>
 <li>workbook</li>
 </ol>
+
+## How to use these packages
+~~~
+import mysql.connector
+from xlsxwriter.workbook import Workbook
+~~~
+
