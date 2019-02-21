@@ -16,13 +16,19 @@
 <li>Define object via using object() method.</li>
 <li>Define variable to show the table content from database.</li>
 <li>Now, we have to execute the variable in which we have access the table content.</ UTF-8li>
-<li>Use <strong>fetchall()</strong> function to fetch all the attributes and entities from the table.</li>
+<li>Use <strong>fetchall()</strong> function Since this is a python file, hence it can be run using following command
+
+python n_dict.py
+python3 n_dict.pyto fetch all the attributes and entities from the table.</li>
 <li>Define another variable in which we use description method to fetch all the column name for the <strong>csv format.</strong></li>
 <li>Take empty list and append all the rows and columns of the table in empty list by using <strong>append() method.</strong></li>
 <li>Now we have to store data into .csv format.</li>
 <li>Use <strong>open() method</strong> in which we define the name of csv file and Unicode-based encoding such as <strong>UTF-8</strong> can support many languages and can accomodate pages and forms in any language. </li>
 <li>Python CSV only accept <strong>lineTerminator</strong> as '\r\n', '\n' or '\r lineTerminator use to split text when it find new line.</li>
-<li><strong>Workbook</strong> use to create spreadsheet which will be stored by .csv extension.</li>
+<li><strong>Workbook</strong> use to create sSince this is a python file, hence it can be run using following command
+
+python n_dict.py
+python3 n_dict.pypreadsheet which will be stored by .csv extension.</li>
 <li><strong>Sheet</strong> variable use to call worksheet from workbook.</li>
 <li><strong>Enumerate()</strong> method adds a counter to an iterable and returns it in a form of enumerate object. Enumerate object can be used directly in a <strong>for loop</strong> </li>
 </ol>
@@ -34,7 +40,7 @@
 <li>workbook</li>
 </ol>
 
-## How to use these packages
+### How to use these packages
 ~~~
 import mysql.connector
 from xlsxwriter.workbook import Workbook
