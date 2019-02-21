@@ -45,9 +45,7 @@ python3 n_dict.pypreadsheet which will be stored by .csv extension.</li>
 <ol>
 <li>csv</li>
 <li>xlsxwriter</li>
-<li>wo  ![table jpg](https://user-images.githubusercontent.com/47202519/53170323-df43a700-3605-11e9-904c-f63435a10c84.png)
-40
-rkbook</li>
+<li>workbook</li>
 </ol>
 
 ### How to use these packages
