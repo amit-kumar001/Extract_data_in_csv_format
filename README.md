@@ -33,17 +33,17 @@ python3 n_dict.pypreadsheet which will be stored by .csv extension.</li>
 <li><strong>Enumerate()</strong> method adds a counter to an iterable and returns it in a form of enumerate object. Enumerate object can be used directly in a <strong>for loop</strong> </li>
 </ol>
 
-### Outpu![table jpg](https://user-images.githubusercontent.com/47202519/53170323-df43a700-3605-11e9-904c-f63435a10c84.png)
-t 
-  
-  ![table jpg](https://user-images.githubusercontent.com/47202519/53170323-df43a700-3605-11e9-904c-f63435a10c84.png)
+### Output
+![table jpg](https://user-images.githubusercontent.com/47202519/53170323-df43a700-3605-11e9-904c-f63435a10c84.png)
 
 
 ## Required package
 <ol>
 <li>csv</li>
 <li>xlsxwriter</li>
-<li>workbook</li>
+<li>wo  ![table jpg](https://user-images.githubusercontent.com/47202519/53170323-df43a700-3605-11e9-904c-f63435a10c84.png)
+40
+rkbook</li>
 </ol>
 ![table jpg](https://user-images.githubusercontent.com/47202519/53170323-df43a700-3605-11e9-904c-f63435a10c84.png)
 
