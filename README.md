@@ -1,4 +1,7 @@
-# Extract_data_in_csv_format
+# Extract_data_in_csv_format  
+![sql](https://user-images.githubusercontent.com/47202519/53243001-8559e480-36cc-11e9-9b34-6bd820554173.jpg)
+  
+  
 ## Key feature
 <ol>
 <li>In this code, We extract a data from database <strong>phpmyadmin</strong> in two format using <strong> python language.</strong> </li> 
