@@ -55,3 +55,27 @@ import mysql.connector
 from xlsxwriter.workbook import Workbook
 ~~~
 
+### how to use this code  
+
+To use this code, one have to use the jupyter notebook. To install jupyter notebook on either windows or linux, pip is a package which can perform this work easily. Please execute the below command
+
+```
+pip/pip3 install jupyter
+```  
+pip3 means for python3 whereas pip2 is for python2. Please check the version of python you are using and install it accordingly. Please remember that if you are in ubuntu and you need to install the package in .local in the home folder, please execute the below command
+
+```
+pip/pip3 install jupyter --user
+```
+
+## how to run this file    
+
+To run this file, download the repository in a specific folder and run the following command in the terminal
+
+```
+jupyter notebook
+```
+
+ 
+
+
